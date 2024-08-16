@@ -25,6 +25,6 @@ Feel free to modify the existing code or add new features to suit your needs. Ma
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. Make sure to follow the project's code of conduct.
 
-##link
-     https://www.linkedin.com/in/ayush-dixit-2316b4153/
+
+   https://campus-placement-ayush.netlify.app/
 
